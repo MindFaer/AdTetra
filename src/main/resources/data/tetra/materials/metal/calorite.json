@@ -1,1 +1,30 @@
-{"key":"calorite","category":"metal","primary":7.5,"secondary":3.2,"tertiary":4,"durability":2200,"integrityCost":2,"integrityGain":8,"magicCapacity":105,"toolLevel":"minecraft:netherite","toolEfficiency":9,"tints":{"glyph":"cb4e4f","texture":"cb4e4f"},"textures":["shiny","heavy","metal"],"material":{"items":["ad_astra:calorite_ingot"]},"requiredTools":{"hammer_dig":"minecraft:diamond"}}
+{
+  "category": "metal",
+  "durability": 2200,
+  "integrityCost": 2,
+  "integrityGain": 8,
+  "key": "calorite",
+  "magicCapacity": 105,
+  "material": {
+    "items": [
+      "ad_astra:calorite_ingot"
+    ]
+  },
+  "primary": 7.5,
+  "requiredTools": {
+    "hammer_dig": "minecraft:diamond"
+  },
+  "secondary": 3.2,
+  "tertiary": 4,
+  "textures": [
+    "shiny",
+    "heavy",
+    "metal"
+  ],
+  "tints": {
+    "glyph": "cb4e4f",
+    "texture": "cb4e4f"
+  },
+  "toolEfficiency": 9,
+  "toolLevel": "minecraft:netherite"
+}

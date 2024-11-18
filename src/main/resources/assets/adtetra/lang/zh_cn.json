@@ -6,5 +6,9 @@
 	"tetra.material.glacian": "融冰",
 	"tetra.material.glacian.prefix": "融冰",
 	"tetra.material.calorite": "耐热金属",
-	"tetra.material.calorite.prefix": "耐热金属"
+	"tetra.material.calorite.prefix": "耐热金属",
+	"tetra.material.strophar": "Strophar",
+	"tetra.material.strophar.prefix": "Strophar",
+	"tetra.material.aeronos": "Aeronos",
+	"tetra.material.aeronos.prefix": "Aeronos"
 }

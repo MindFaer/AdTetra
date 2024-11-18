@@ -1,1 +1,32 @@
-{"key":"desh","category":"metal","primary":4.2,"secondary":4.3,"tertiary":2.7,"durability":250,"integrityCost":1,"integrityGain":6,"magicCapacity":51,"toolLevel":"minecraft:iron","toolEfficiency":5,"tints":{"glyph":"d68d4d","texture":"d68d4d"},"textures":["metal","default"],"material":{"items":["ad_astra:desh_ingot"]},"improvements":{"workable":3},"requiredTools":{"hammer_dig":"minecraft:wood"}}
+{
+  "category": "metal",
+  "durability": 250,
+  "improvements": {
+    "workable": 3
+  },
+  "integrityCost": 1,
+  "integrityGain": 6,
+  "key": "desh",
+  "magicCapacity": 51,
+  "material": {
+    "items": [
+      "ad_astra:desh_ingot"
+    ]
+  },
+  "primary": 4.2,
+  "requiredTools": {
+    "hammer_dig": "minecraft:wood"
+  },
+  "secondary": 4.3,
+  "tertiary": 2.7,
+  "textures": [
+    "metal",
+    "default"
+  ],
+  "tints": {
+    "glyph": "d68d4d",
+    "texture": "d68d4d"
+  },
+  "toolEfficiency": 5,
+  "toolLevel": "minecraft:iron"
+}

@@ -1,0 +1,27 @@
+{
+  "key": "aeronos",
+  "category": "wood",
+  "primary": 4,
+  "secondary": 2.5,
+  "tertiary": 7.5,
+  "durability": 150,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 90,
+  "toolLevel": "minecraft:gold",
+  "toolEfficiency": 4,
+  "tints": {
+    "glyph": "ae7e96",
+    "texture": "ae7e96"
+  },
+  "textures": [
+    "crude",
+    "wooden"
+  ],
+  "material": {
+    "items": [ "ad_astra:aeronos_planks" ]
+  },
+  "requiredTools": {
+    "axe_dig": "minecraft:stone"
+  }
+}
