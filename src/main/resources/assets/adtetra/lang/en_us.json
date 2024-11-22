@@ -6,5 +6,9 @@
 	"tetra.material.glacian": "Glacian",
 	"tetra.material.glacian.prefix": "Glacian",
 	"tetra.material.calorite": "Calorite",
-	"tetra.material.calorite.prefix": "Calorite"
+	"tetra.material.calorite.prefix": "Calorite",
+	"tetra.material.strophar": "Strophar",
+	"tetra.material.strophar.prefix": "Strophar",
+	"tetra.material.aeronos": "Aeronos",
+	"tetra.material.aeronos.prefix": "Aeronos"
 }
